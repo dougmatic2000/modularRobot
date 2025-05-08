@@ -1,0 +1,8 @@
+#ifndef HAL_MOTORCONTROLLER_H
+#define HAL_MOTORCONTROLLER_H
+
+#include "HAL_Generic.h"
+
+
+
+#endif //HAL_MOTORCONTROLLER_H

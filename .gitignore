@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# Folders
+/build
+/data
+/output
+
+# Data types
+*.jpg
+*.jpeg
+*.png
+*.csv
+*.mp4
+*.mpeg
+*.mov
+
+# OS artifacts
+.DS_Store
